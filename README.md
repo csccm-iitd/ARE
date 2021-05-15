@@ -1,2 +1,2 @@
 # ARE (Auto Recurrent Estimation)
-![Schematic of model](../img/ARE_pred1.pdf)
+![Schematic of model](../img/are_pred1.png)
